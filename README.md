@@ -26,21 +26,15 @@ The three phase voltages are mathematically represented as:
 
 **Phase R:**
 
-\[
-V_R(t)=V_m\sin(\omega t)
-\]
+$$V_R(t) = V_m\sin(\omega t)$$
 
 **Phase Y:**
 
-\[
-V_Y(t)=V_m\sin(\omega t-120^\circ)
-\]
+$$V_Y(t) = V_m\sin(\omega t - 120^\circ)$$
 
 **Phase B:**
 
-\[
-V_B(t)=V_m\sin(\omega t-240^\circ)
-\]
+$$V_B(t) = V_m\sin(\omega t - 240^\circ)$$
 
 Where:
 
